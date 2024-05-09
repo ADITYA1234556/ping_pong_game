@@ -41,12 +41,5 @@ while game_on:
         ball.reset_ball()
         score_r.score += 1
         score_r.write_score()
-#     paddle.paddle_follow()
-#     paddle.paddle_follow_2()
-
-
-
-
-
 
 screen.exitonclick()
